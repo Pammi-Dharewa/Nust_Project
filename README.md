@@ -1,3 +1,4 @@
+>>>>>>> branch-name 
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -18,7 +19,7 @@ yarn install
 
 # bun
 bun install
-```
+
 
 ## Development Server
 
@@ -73,3 +74,6 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+=======
+# Nust_Project
+>>>>>>> ebcb0e7dcc8e64c69820f981789ebb05002f030d
